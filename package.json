@@ -1,0 +1,23 @@
+{
+  "name": "pratical_task_viitorcloud",
+  "version": "1.0.0",
+  "description": "Tip manger Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darshanp23/pratical_task_ViitorCloud.git"
+  },
+  "author": "Darshan Pandya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darshanp23/pratical_task_ViitorCloud/issues"
+  },
+  "homepage": "https://github.com/darshanp23/pratical_task_ViitorCloud#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  }
+}
